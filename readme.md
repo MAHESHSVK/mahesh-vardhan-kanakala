@@ -1,12 +1,13 @@
-<div style="text-align: center;">
+<div class="center-content">
   <img src="/public/brands/logo.svg" width="100" height="100" alt="Logo">
-# Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻  
+  <h1>Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻</h1>
   <p>
     <em>🌿 A minimalist</em> <br>
     <em>➖ Subtraction for life</em> <br>
     <em>➕ Addition for thought</em>
   </p>
-  
+</div>
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-vite-ecru.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vardhan-kanakala/ )
 
