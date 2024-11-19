@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
   <img src="/public/brands/logo.svg" width="100" height="100" alt="Logo">
 # Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻  
   <p>
