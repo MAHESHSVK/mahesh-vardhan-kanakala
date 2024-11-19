@@ -42,53 +42,56 @@
 
 ## 🛠️ Full Stack Projects
 
-- [Library-Management-System](https://github.com/mahesh-vardhan-kanakala/Library-Management-System)
-- [TODO-React](https://github.com/mahesh-vardhan-kanakala/TODO-React)
-- [DevOps-Portfolio](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) 
-- [TODO-app](https://github.com/mahesh-vardhan-kanakala/TODO-app)  
-- [REACT-TODO-App](https://github.com/mahesh-vardhan-kanakala/REACT-TODO-App)  
-- [search-bar](https://github.com/mahesh-vardhan-kanakala/search-bar)  
-- [spms](https://github.com/mahesh-vardhan-kanakala/spms)  
-- [student-management](https://github.com/mahesh-vardhan-kanakala/student-management)  
-- [Movie-Search-App](https://github.com/mahesh-vardhan-kanakala/Movie-Search-App)  
-- [Chat-App](https://github.com/mahesh-vardhan-kanakala/Chat-App)  
-- [Ai-Image-Generator](https://github.com/mahesh-vardhan-kanakala/Ai-Image-Generator)  
-- [Movie-recommendation-system](https://github.com/mahesh-vardhan-kanakala/Movie-recommendation-system)  
-- [Portfolio-vitr](https://github.com/mahesh-vardhan-kanakala/Portfolio-vitr)  
-- [Quiz-App](https://github.com/mahesh-vardhan-kanakala/Quiz-App)  
-- [Recipe-Finder](https://github.com/mahesh-vardhan-kanakala/Recipe-Finder)  
-- [Netflix---Clone-live](https://github.com/mahesh-vardhan-kanakala/Netflix---Clone-live)  
-- [Iris-flowers-based-on-their-features-using-Python-scikit-learn-and-TensorFlow](https://github.com/mahesh-vardhan-kanakala/Iris-flowers-based-on-their-features-using-Python-scikit-learn-and-TensorFlow)  
-- [CountDown-Timer](https://github.com/mahesh-vardhan-kanakala/CountDown-Timer)  
-- [Notes-App](https://github.com/mahesh-vardhan-kanakala/Notes-App)  
-- [Expense-Tracker](https://github.com/mahesh-vardhan-kanakala/Expense-Tracker)  
-- [innomatics-internship-task-6](https://github.com/mahesh-vardhan-kanakala/innomatics-internship-task-6)  
-- [nextjs-chat](https://github.com/mahesh-vardhan-kanakala/nextjs-chat)  
-- [Static-Landing-Page](https://github.com/mahesh-vardhan-kanakala/Static-Landing-Page)  
-- [nextjs-boilerplate](https://github.com/mahesh-vardhan-kanakala/nextjs-boilerplate)  
-- [Folio](https://github.com/mahesh-vardhan-kanakala/Folio)  
-- [House-prices-prediction-using-Python-scikit-learn-and-TensorFlow](https://github.com/mahesh-vardhan-kanakala/House-prices-prediction-using-Python-scikit-learn-and-TensorFlow)  
-- [student-management-system](https://github.com/mahesh-vardhan-kanakala/student-management-system)  
-- [vprofile-project](https://github.com/mahesh-vardhan-kanakala/vprofile-project)  
-- [Tetri-Game-React](https://github.com/mahesh-vardhan-kanakala/Tetri-Game-React)  
-- [Static-Pages-with-Routing](https://github.com/mahesh-vardhan-kanakala/Static-Pages-with-Routing)  
-- [Tetris-main](https://github.com/mahesh-vardhan-kanakala/Tetris-main)  
-- [vprofile-project-](https://github.com/mahesh-vardhan-kanakala/vprofile-project-)  
-- [Portfolio-react](https://github.com/mahesh-vardhan-kanakala/portfolio-react)  
-- [Respons](https://github.com/mahesh-vardhan-kanakala/Respons)  
+| Project Name | GitHub Link |
+|--------------|-------------|
+| [Library-Management-System](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) | [View Project](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) |
+| [TODO-React](https://github.com/mahesh-vardhan-kanakala/TODO-React) | [View Project](https://github.com/mahesh-vardhan-kanakala/TODO-React) |
+| [DevOps-Portfolio](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) | [View Project](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) |
+| [TODO-app](https://github.com/mahesh-vardhan-kanakala/TODO-app) | [View Project](https://github.com/mahesh-vardhan-kanakala/TODO-app) |
+| [REACT-TODO-App](https://github.com/mahesh-vardhan-kanakala/REACT-TODO-App) | [View Project](https://github.com/mahesh-vardhan-kanakala/REACT-TODO-App) |
+| [search-bar](https://github.com/mahesh-vardhan-kanakala/search-bar) | [View Project](https://github.com/mahesh-vardhan-kanakala/search-bar) |
+| [spms](https://github.com/mahesh-vardhan-kanakala/spms) | [View Project](https://github.com/mahesh-vardhan-kanakala/spms) |
+| [student-management](https://github.com/mahesh-vardhan-kanakala/student-management) | [View Project](https://github.com/mahesh-vardhan-kanakala/student-management) |
+| [Movie-Search-App](https://github.com/mahesh-vardhan-kanakala/Movie-Search-App) | [View Project](https://github.com/mahesh-vardhan-kanakala/Movie-Search-App) |
+| [Chat-App](https://github.com/mahesh-vardhan-kanakala/Chat-App) | [View Project](https://github.com/mahesh-vardhan-kanakala/Chat-App) |
+| [Ai-Image-Generator](https://github.com/mahesh-vardhan-kanakala/Ai-Image-Generator) | [View Project](https://github.com/mahesh-vardhan-kanakala/Ai-Image-Generator) |
+| [Movie-recommendation-system](https://github.com/mahesh-vardhan-kanakala/Movie-recommendation-system) | [View Project](https://github.com/mahesh-vardhan-kanakala/Movie-recommendation-system) |
+| [Portfolio-vitr](https://github.com/mahesh-vardhan-kanakala/Portfolio-vitr) | [View Project](https://github.com/mahesh-vardhan-kanakala/Portfolio-vitr) |
+| [Quiz-App](https://github.com/mahesh-vardhan-kanakala/Quiz-App) | [View Project](https://github.com/mahesh-vardhan-kanakala/Quiz-App) |
+| [Recipe-Finder](https://github.com/mahesh-vardhan-kanakala/Recipe-Finder) | [View Project](https://github.com/mahesh-vardhan-kanakala/Recipe-Finder) |
+| [Netflix---Clone-live](https://github.com/mahesh-vardhan-kanakala/Netflix---Clone-live) | [View Project](https://github.com/mahesh-vardhan-kanakala/Netflix---Clone-live) |
+| [Iris-flowers-based-on-their-features-using-Python-scikit-learn-and-TensorFlow](https://github.com/mahesh-vardhan-kanakala/Iris-flowers-based-on-their-features-using-Python-scikit-learn-and-TensorFlow) | [View Project](https://github.com/mahesh-vardhan-kanakala/Iris-flowers-based-on-their-features-using-Python-scikit-learn-and-TensorFlow) |
+| [CountDown-Timer](https://github.com/mahesh-vardhan-kanakala/CountDown-Timer) | [View Project](https://github.com/mahesh-vardhan-kanakala/CountDown-Timer) |
+| [Notes-App](https://github.com/mahesh-vardhan-kanakala/Notes-App) | [View Project](https://github.com/mahesh-vardhan-kanakala/Notes-App) |
+| [Expense-Tracker](https://github.com/mahesh-vardhan-kanakala/Expense-Tracker) | [View Project](https://github.com/mahesh-vardhan-kanakala/Expense-Tracker) |
+| [innomatics-internship-task-6](https://github.com/mahesh-vardhan-kanakala/innomatics-internship-task-6) | [View Project](https://github.com/mahesh-vardhan-kanakala/innomatics-internship-task-6) |
+| [nextjs-chat](https://github.com/mahesh-vardhan-kanakala/nextjs-chat) | [View Project](https://github.com/mahesh-vardhan-kanakala/nextjs-chat) |
+| [Static-Landing-Page](https://github.com/mahesh-vardhan-kanakala/Static-Landing-Page) | [View Project](https://github.com/mahesh-vardhan-kanakala/Static-Landing-Page) |
+| [nextjs-boilerplate](https://github.com/mahesh-vardhan-kanakala/nextjs-boilerplate) | [View Project](https://github.com/mahesh-vardhan-kanakala/nextjs-boilerplate) |
+| [Folio](https://github.com/mahesh-vardhan-kanakala/Folio) | [View Project](https://github.com/mahesh-vardhan-kanakala/Folio) |
+| [House-prices-prediction-using-Python-scikit-learn-and-TensorFlow](https://github.com/mahesh-vardhan-kanakala/House-prices-prediction-using-Python-scikit-learn-and-TensorFlow) | [View Project](https://github.com/mahesh-vardhan-kanakala/House-prices-prediction-using-Python-scikit-learn-and-TensorFlow) |
+| [student-management-system](https://github.com/mahesh-vardhan-kanakala/student-management-system) | [View Project](https://github.com/mahesh-vardhan-kanakala/student-management-system) |
+| [vprofile-project](https://github.com/mahesh-vardhan-kanakala/vprofile-project) | [View Project](https://github.com/mahesh-vardhan-kanakala/vprofile-project) |
+| [Tetri-Game-React](https://github.com/mahesh-vardhan-kanakala/Tetri-Game-React) | [View Project](https://github.com/mahesh-vardhan-kanakala/Tetri-Game-React) |
+| [Static-Pages-with-Routing](https://github.com/mahesh-vardhan-kanakala/Static-Pages-with-Routing) | [View Project](https://github.com/mahesh-vardhan-kanakala/Static-Pages-with-Routing) |
+| [Tetris-main](https://github.com/mahesh-vardhan-kanakala/Tetris-main) | [View Project](https://github.com/mahesh-vardhan-kanakala/Tetris-main) |
+| [vprofile-project-](https://github.com/mahesh-vardhan-kanakala/vprofile-project-) | [View Project](https://github.com/mahesh-vardhan-kanakala/vprofile-project-) |
+| [Portfolio-react](https://github.com/mahesh-vardhan-kanakala/portfolio-react) | [View Project](https://github.com/mahesh-vardhan-kanakala/portfolio-react) |
+| [Respons](https://github.com/mahesh-vardhan-kanakala/Respons) | [View Project](https://github.com/mahesh-vardhan-kanakala/Respons) |
 
 ---
 
 ## ⚙️ DevOps Projects
 
-- [DevSecOps-netflix](https://github.com/mahesh-vardhan-kanakala/DevSecOps-netflix)  
-- [DevSecOps-Project-netflix](https://github.com/mahesh-vardhan-kanakala/DevSecOps-Project-netflix)  
-- [DevOps-Portfolio](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio)
-- [node-todo-cicd](https://github.com/mahesh-vardhan-kanakala/node-todo-cicd)  
-- [Jenkins-Sonarqube-Docker](https://github.com/mahesh-vardhan-kanakala/Jenkins-Sonarqube-Docker)  
-- [Mahesh](https://github.com/mahesh-vardhan-kanakala/Mahesh)  
-- [Devops](https://github.com/mahesh-vardhan-kanakala/Devops)  
--  [2048-gh-pages](https://github.com/mahesh-vardhan-kanakala/2048-gh-pages)  
+| Project Name | GitHub Link |
+|--------------|-------------|
+| [DevSecOps-netflix](https://github.com/mahesh-vardhan-kanakala/DevSecOps-netflix) | [View Project](https://github.com/mahesh-vardhan-kanakala/DevSecOps-netflix) |
+| [DevSecOps-Project-netflix](https://github.com/mahesh-vardhan-kanakala/DevSecOps-Project-netflix) | [View Project](https://github.com/mahesh-vardhan-kanakala/DevSecOps-Project-netflix) |
+| [DevOps-Portfolio](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) | [View Project](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) |
+| [node-todo-cicd](https://github.com/mahesh-vardhan-kanakala/node-todo-cicd) | [View Project](https://github.com/mahesh-vardhan-kanakala/node-todo-cicd) |
+| [Jenkins-Sonarqube-Docker](https://github.com/mahesh-vardhan-kanakala/Jenkins-Sonarqube-Docker) | [View Project](https://github.com/mahesh-vardhan-kanakala/Jenkins-Sonarqube-Docker) |
+| [Mahesh](https://github.com/mahesh-vardhan-kanakala/Mahesh) | [View Project](https://github.com/mahesh-vardhan-kanakala/Mahesh) |
+
 
 ---
 
