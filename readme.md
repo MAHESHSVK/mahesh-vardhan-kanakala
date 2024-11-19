@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/public/brands/logo_black.svg" width="100" height="100" alt="Logo">
+  <img src="/public/brands/logo.svg" width="100" height="100" alt="Logo">
 # Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻  
   <p>
     <em>🌿 A minimalist</em> <br>
