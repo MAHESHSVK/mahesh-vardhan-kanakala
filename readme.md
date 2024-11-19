@@ -12,10 +12,6 @@
 
 ---
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mahesh-vardhan-kanakala&label=Profile%20Views&pretty=false" />
-</a>
-
 ## 🚀 About Me
 - **Full Stack Developer** & **DevOps Engineer**  
 - Passionate about building scalable applications & automated infrastructure.  
