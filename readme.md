@@ -1,17 +1,21 @@
-<div class="center-content">
-  <img src="/public/brands/logo.svg" width="100" height="100" alt="Logo">
-  <h1>Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻</h1>
+
+<div align="center">
+  <img src="/public/brands/logo_black.svg" width="100" height="100" alt="Logo">
+# Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻  
   <p>
     <em>🌿 A minimalist</em> <br>
     <em>➖ Subtraction for life</em> <br>
     <em>➕ Addition for thought</em>
   </p>
-</div>
-
+  
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://portfolio-vite-ecru.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vardhan-kanakala/ )
 
 ---
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mahesh-vardhan-kanakala&label=Profile%20Views&pretty=false" />
+</a>
 
 ## 🚀 About Me
 - **Full Stack Developer** & **DevOps Engineer**  
@@ -111,3 +115,4 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mahesh-vardhan-kanakala&label=Profile%20Views&pretty=false" />
 </a>
+#
