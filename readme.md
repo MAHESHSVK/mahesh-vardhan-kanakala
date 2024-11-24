@@ -1,7 +1,15 @@
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60">
+   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=000000">
 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Mahesh;I'm+a+Full-Stack+Developer+👨‍💻;I'm+a+DevOps Engineer+👨‍💻A+problem+solver+💡;A+Innovative+thinker+✨;A+cool+guy+😎✌;and...+oh!,+I+can+center+a+Div+flawlessly+😏;" />
+</p>
 <div align="center">
   <img src="/public/brands/logo.svg" width="100" height="100" alt="Logo">
-# Hi there, I'm Soma Mahesh Vardhan Kanakala 👋🏻  
+
+  # I'm SOMA MAHESH VARDHAN KANAKALA 👋🏻
+ 
   <p>
     <em>🌿 A minimalist</em> <br>
     <em>➖ Subtraction for life</em> <br>
