@@ -53,7 +53,8 @@
 
 | Project Name | GitHub Link |
 |--------------|-------------|
-| [Library-Management-System](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) | [View Project](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) |
+| [FriendScope](https://github.com/mahesh-vardhan-kanakala/Friendscope) | [View Project](https://friendscope-ten.vercel.app/) |
+  [Library-Management-System](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) | [View Project](https://github.com/mahesh-vardhan-kanakala/Library-Management-System) |
 | [TODO-React](https://github.com/mahesh-vardhan-kanakala/TODO-React) | [View Project](https://github.com/mahesh-vardhan-kanakala/TODO-React) |
 | [DevOps-Portfolio](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) | [View Project](https://github.com/mahesh-vardhan-kanakala/DevOps-Portfolio) |
 | [TODO-app](https://github.com/mahesh-vardhan-kanakala/TODO-app) | [View Project](https://github.com/mahesh-vardhan-kanakala/TODO-app) |
